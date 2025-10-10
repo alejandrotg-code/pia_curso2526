@@ -1,1 +1,1 @@
-# pia_curso2526
+# Programición IA Curso 2025 - 2026
