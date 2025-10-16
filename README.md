@@ -31,10 +31,6 @@ Repositorio del curso de Programación con Inteligencia Artificial para el curso
 
 Este proyecto está bajo la Licencia MIT - ver el archivo [LICENSE](LICENSE) para más detalles.
 
-## 📧 Contacto
-
-Para preguntas o sugerencias sobre el curso, contacta a través de [alejandrotacorontegnlez@gmail.com](mailto:alejandrotacorontegnlez@gmail.com).
-
 ---
 
 **Curso 2025-2026** | Programación IA
